@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head> <tittle> HACKER </html> </head>
+<body>
+
+
+<h4 style="color:blue;"> How to be a hacker:- </h4>
+
+<p> If you want to be a hacker </p>
+
+<img src="file:///C:/Users/dell/Downloads/main-quinge%20hcfefhecyfw398434cu34.png"/>
+
+<p> You have to learn these languages which are:- C++ and C </p>
+
+
+<h4 style="color:blue;"> Types of Hacker:- </h4>
+
+<p> There are three types of hacker which are:- </p>
+
+<img src="file:///C:/Users/dell/Downloads/main-qimg-3af128ee8a1433c0aed2443b16214bfb.webp"/>
+
+
+
+
+
+
+</body>
+</html>
